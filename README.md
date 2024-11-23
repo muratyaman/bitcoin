@@ -1,6 +1,20 @@
 # bitcoin
 
-bitcoin blocks
+With the help of ChatGPT and Copilot...
+
+The process looks innocent.
+
+Summary of the Process
+
+1. A user creates and broadcasts a transaction.
+2. Nodes verify the transaction and add it to the mempool.
+3. Miners select transactions from the mempool and attempt to solve a proof-of-work puzzle.
+4. The first miner to solve the puzzle broadcasts the new block, which is verified and added to the blockchain.
+5. The miner is rewarded with newly minted Bitcoin and transaction fees!
+
+This system ensures Bitcoin transactions are secure, decentralized, and incentivized through mining rewards.
+
+Let's look at some Bitcoin blocks...
 
 ## Block 0
 
@@ -159,3 +173,113 @@ In the beginning, **miners** were the primary creators of new wallet addresses b
 Is there any other ridiculous system where users pay for creating a record in a database? Oh, yes, the banks! But that is different due to the rules and regulations, and they manipulate the markets entirely differently!
 
 Bitcoin (cryptocurrencies) were created as a rebellion but unfortunately they are [ponzi schemes](https://en.wikipedia.org/wiki/Ponzi_scheme) due to their architecture (see **block reward**). You should be able to see it in their database as printed above. It is publicly available unlike the databases of the banks.
+
+## Issues with mining
+
+It is impossible to create proof of work individually nowadays. Then, you would normally join a cluster of computers for distributed programming to create faster results and share the rewards. That means one of them will get the reward and then he has to create new order for the network to share that reward between the participants of ditributed computation. How can you fairly calculate that?!
+
+Never mind the huge energy consumption and environmental impact!
+
+Energy Consumption:
+
+The Bitcoin network's energy consumption is substantial due to the Proof of Work consensus mechanism, which requires miners to solve complex mathematical problems. This process consumes a lot of electricity.
+
+Environmental Impact:
+
+The energy consumption has raised concerns about the environmental impact, especially when the electricity is sourced from non-renewable sources like coal or natural gas. However, many mining operations are shifting towards renewable energy sources to mitigate this impact.
+
+Incentives for Efficiency:
+
+The high cost of electricity encourages miners to seek more efficient and cost-effective methods. This has led to innovations in renewable energy usage and energy-efficient mining hardware.
+
+Comparisons to Traditional Systems:
+
+Some argue that while Bitcoin mining is energy-intensive, it should be compared to the energy consumption of traditional financial systems, including banks, ATMs, and data centers, which also consume significant amounts of energy.
+
+Alternative Consensus Mechanisms:
+
+There are alternative consensus mechanisms, such as Proof of Stake, which require significantly less energy. Some newer cryptocurrencies are adopting these methods to reduce their environmental footprint.
+
+**51% attack**
+
+... is a potential attack on a blockchain network where a single entity or group gains control of more than 50% of the network's mining power (hashrate)
+
+**Quantum computing** does pose a potential threat to Bitcoin's security. The Bitcoin community is aware of the potential threat and is exploring **quantum-resistant** cryptographic algorithms to safeguard the network. These measures could be implemented before quantum computers become a significant threat.
+
+## Issues with Exchanges
+
+Potential Risks and Costs for e.g. international money transfer
+
+Exchange Fees and Bitcoin Network Fees:
+
+You’ll pay fees at both ends:
+
+When buying Bitcoin on the exchange in your country.
+Network transaction fees to transfer Bitcoin.
+Withdrawal fees when the recipient converts Bitcoin to USD in their country.
+These fees can add up and may offset any potential cost savings.
+
+Volatility:
+
+Bitcoin's value can fluctuate significantly within minutes. The value of Bitcoin at the time of purchase might decrease before it is sold and converted into USD, causing unexpected losses.
+
+Legal and Regulatory Risks:
+
+Some countries have strict regulations on cryptocurrency usage and transfers. In certain cases, the recipient may face issues converting Bitcoin to USD or even legal consequences.
+Ensure both your country and the recipient's country allow Bitcoin transactions.
+
+Safety of the Transaction:
+
+Bitcoin transactions are irreversible. If you send Bitcoin to the wrong wallet address or are scammed, there’s no way to recover it.
+Ensure the recipient’s Bitcoin wallet address is correct and trustworthy.
+
+Tax Implications:
+
+Buying and transferring Bitcoin may have tax implications in your country or the recipient’s country. Some countries classify Bitcoin transactions as taxable events.
+
+Exchange Reliability:
+
+Not all exchanges are equal. The recipient must use a reliable, regulated exchange in their country to avoid issues such as high fees, withdrawal delays, or scams.
+
+## Forks
+
+Forking in the blockchain world, especially in Bitcoin, usually happens for a few reasons:
+
+Scalability Issues:
+
+As more people use Bitcoin, the network can become congested. Forks like Bitcoin Cash aimed to increase the block size to handle more transactions per second.
+
+Disagreements in the Community:
+
+Bitcoin's community is decentralized and includes many developers and miners with different visions. When there's a major disagreement on the direction of the network, a fork can occur. This was the case with Bitcoin Cash and Bitcoin SV.
+
+Security Enhancements:
+
+Sometimes, forks are introduced to enhance security or address vulnerabilities in the original blockchain.
+
+Innovation and Features:
+
+New features or improvements can be implemented through forks. For example, Bitcoin Gold aimed to make mining more accessible to individuals with standard hardware.
+
+The Bitcoin blockchain has experienced several forks over the years. Here are some notable ones:
+
+Bitcoin XT:
+
+Launched in 2014 by Mike Hearn, Bitcoin XT was an attempt to increase the block size to improve transaction capacity. It didn't gain widespread adoption.
+
+Bitcoin Classic:
+
+Introduced in 2016, Bitcoin Classic aimed to increase the block size from 1 MB to 2 MB. It also didn't achieve consensus within the community.
+
+Bitcoin Cash (BCH):
+
+The first major hard fork of Bitcoin occurred on August 1, 2017, resulting in the creation of Bitcoin Cash. This fork increased the block size to 8 MB and aimed to improve transaction speed and scalability.
+
+Bitcoin Gold (BTG):
+
+Launched on October 24, 2017, Bitcoin Gold aimed to make mining more accessible by changing the proof-of-work algorithm to one that could be mined with consumer-grade hardware.
+
+Bitcoin SV (BSV):
+
+Bitcoin SV (Satoshi's Vision) forked from Bitcoin Cash on November 15, 2018, with the goal of restoring the original Bitcoin protocol and increasing the block size limit.
+
