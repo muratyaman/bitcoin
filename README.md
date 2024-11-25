@@ -170,6 +170,12 @@ Hal Finney received 10 BTC, representing trust in Bitcoin’s potential as a dec
 
 In the beginning, **miners** were the primary creators of new wallet addresses because they mined the first blocks, received the newly created Bitcoin, and controlled where the rewards went. They created new addresses as needed to store these rewards. Over time, the Bitcoin network grew, and more users (not just miners) created their own wallet addresses to participate in the Bitcoin economy.
 
+### New Coins as rewards
+
+Imagine a community rewarding someone $600k (6.25BTC/block x $96k/coin on 25/11/2024) every time he records e.g. 5000 transactions in a database which can normally take a few seconds. That operation has nothing to do with international or national money transfer. Each transfer order invites thousands of computers to a race that can last about 10 minutes. Imagine the energy cost. All of them (except the winner) are losers. There are no rewards for them.
+
+You can explore recent blocks: [blockchain.com/explorer](https://www.blockchain.com/explorer)
+
 Is there any other ridiculous system where users pay for creating a record in a database? Oh, yes, the banks! But that is different due to the rules and regulations, and they manipulate the markets entirely differently!
 
 Bitcoin (cryptocurrencies) were created as a rebellion but unfortunately they are [ponzi schemes](https://en.wikipedia.org/wiki/Ponzi_scheme) due to their architecture (see **block reward**). You should be able to see it in their database as printed above. It is publicly available unlike the databases of the banks.
@@ -282,9 +288,3 @@ Launched on October 24, 2017, Bitcoin Gold aimed to make mining more accessible 
 Bitcoin SV (BSV):
 
 Bitcoin SV (Satoshi's Vision) forked from Bitcoin Cash on November 15, 2018, with the goal of restoring the original Bitcoin protocol and increasing the block size limit.
-
-## New Coins as rewards
-
-Imagine a community rewarding someone $600k (6.25BTC/block x $96k/coin on 25/11/2024) every time he records e.g. 5000 transactions in a database which can normally take a few seconds. That operation has nothing to do with international or national money transfer. Each transfer order invites thousands of computers to a race that can last about 10 minutes. Imagine the energy cost. All of them (except the winner) are losers. There are no rewards for them.
-
-You can explore recent blocks: [blockchain.com/explorer](https://www.blockchain.com/explorer)
