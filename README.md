@@ -172,7 +172,7 @@ In the beginning, **miners** were the primary creators of new wallet addresses b
 
 ### New Coins as rewards
 
-Imagine a community rewarding someone $600k (6.25BTC/block x $96k/coin on 25/11/2024) every time he records e.g. 5000 transactions in a database which can normally take a few seconds. That operation has nothing to do with international or national money transfer. Each transfer order invites thousands of computers to a race that can last about 10 minutes. Imagine the energy cost. All of them (except the winner) are losers. There are no rewards for them.
+Imagine a community rewarding someone **$300k** (3.125BTC/block x **$96k/coin** on 25/11/2024) every time he records e.g. 5000 transactions in a database which can normally take a few seconds. That operation has nothing to do with international or national money transfer. Each transfer order invites thousands of computers to a race that can last about 10 minutes. Imagine the energy cost. All of them (except the winner) are losers. There are no rewards for them.
 
 You can explore recent blocks: [blockchain.com/explorer](https://www.blockchain.com/explorer)
 
